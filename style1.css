@@ -1,0 +1,20 @@
+* body {
+    background-color: #6e2cc5;
+    font: 1em sans-serif;
+    color: #eeecec;
+    font-size: 24px;
+}
+
+
+.logo img{
+    background-size:100% 100%;
+    width: 700px;
+    padding: 98px;
+}
+
+
+.icon img{
+
+    width: 450px;
+    padding: 98px;
+}
